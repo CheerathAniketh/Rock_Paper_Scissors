@@ -9,3 +9,7 @@ Simple Python game to play against the computer, built in Python.
 4. Run the game with:
    ```bash
    python rps.py
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nAGAku5ayRYV4afxDcH58xPHZyJ4Pu9v?usp=sharing)
+
+
+🔗 https://colab.research.google.com/drive/1nAGAku5ayRYV4afxDcH58xPHZyJ4Pu9v?usp=sharing
